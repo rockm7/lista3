@@ -1,20 +1,38 @@
 #EXTM3U
-#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/rTXcueh.png",ESPN Brasil
-http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_360_av-b.m3u8
-#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/rTXcueh.png",ESPN Brasil HD
-http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
-#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/kcxzdPA.png",ESPN
-http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_360_av-b.m3u8
-#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/kcxzdPA.png",ESPN HD
-http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
-#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/Qp5B2ZB.png",ESPN 2
-http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_360_av-b.m3u8
-#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/Qp5B2ZB.png",ESPN 2 HD
-http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
-#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/TW6ZY5p.png",ESPN Extra
-http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-b.m3u8
-#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/TW6ZY5p.png",ESPN Extra HD
-http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2 FHD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/espn2.png" group-title="Canais: Esportes",ESPN 2 FHD
+http://stream-sky.cf:80/joao123/joao123/358
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2 HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/espn2.png" group-title="Canais: Esportes",ESPN 2 HD
+http://stream-sky.cf:80/joao123/joao123/91
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2 SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/espn2.png" group-title="Canais: Esportes",ESPN 2 SD
+http://stream-sky.cf:80/joao123/joao123/90
+#EXTINF:-1,Globo RBS P. Alegre FHD₁
+http://lista.titanuhd.top:80/Paula123/Paula123/694
+#EXTINF:-1,Globo RBS P. Alegre HD₁
+http://lista.titanuhd.top:80/Paula123/Paula123/509
+#EXTINF:-1,Globo RBS P. Alegre SD₁
+http://lista.titanuhd.top:80/Paula123/Paula123/460
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE SD₂
+http://lista.titanuhd.top:80/Paula123/Paula123/22134
+#EXTINF:-1,Premiere 1 Clubes FHD₁
+http://lista.titanuhd.top:80/Paula123/Paula123/725
+#EXTINF:-1,Premiere 1 Clubes FHD₂
+http://lista.titanuhd.top:80/Paula123/Paula123/22364
+#EXTINF:-1,Premiere 1 Clubes HD₁
+http://lista.titanuhd.top:80/Paula123/Paula123/134
+#EXTINF:-1,Premiere 1 Clubes HD₂
+http://lista.titanuhd.top:80/Paula123/Paula123/22202
+#EXTINF:-1,Premiere 1 Clubes SD₁
+http://lista.titanuhd.top:80/Paula123/Paula123/135
+#EXTINF:-1,Premiere 2 FHD₁
+http://lista.titanuhd.top:80/Paula123/Paula123/726
+#EXTINF:-1,Premiere 2 FHD₂
+http://lista.titanuhd.top:80/Paula123/Paula123/22365
+#EXTINF:-1,Premiere 2 HD₁
+http://lista.titanuhd.top:80/Paula123/Paula123/136
+#EXTINF:-1,Premiere 2 HD₂
+http://lista.titanuhd.top:80/Paula123/Paula123/22203
+#EXTINF:-1,Premiere 2 SD₁
+http://lista.titanuhd.top:80/Paula123/Paula123/137
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL ***" tvg-logo="http://i.imgur.com/ZekUX7A.png" group-title="FILMES",COMEDY CENTRAL ***
 http://165.227.100.253/comedycentral/tracks-v1a1/index.m3u8?pxAuth=RKJdMXdWTsLv3RRelMtX606bIxKpV7Nc
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD **" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALTH HD **
