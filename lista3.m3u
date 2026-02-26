@@ -1,14 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/xmmiHls.png",Premiere Clubes
-http://189.91.128.150:5555/udp/227.10.20.102:1234
-#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/xmmiHls.png",Premiere 2
-http://189.91.128.150:5555/udp/227.10.20.104:1234
-#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/xmmiHls.png",Premiere 3
-http://189.91.128.150:5555/udp/227.10.20.105:1234
-#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/xmmiHls.png",Premiere 4
-http://189.91.128.150:5555/udp/227.10.20.106:1234
-#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/xmmiHls.png",Premiere 5
-http://189.91.128.150:5555/udp/227.10.20.107:1234
+#EXTINF:-1 tvg-id="bandsãopaulo.br" tvg-name="GLOBO SÃO PAULO FHD" tvg-logo="https://7svoficial.com/canais/globo.png" group-title="CANAIS • GLOBO CAPITAIS",GLOBO SÃO PAULO FHD
+http://axshield.xyz:80/765533561/344364231/11409657
+#EXTINF:-1 tvg-id="bandsãopaulo.br" tvg-name="GLOBO SÃO PAULO HD" tvg-logo="https://7svoficial.com/canais/globo.png" group-title="CANAIS • GLOBO CAPITAIS",GLOBO SÃO PAULO HD
+http://axshield.xyz:80/765533561/344364231/11409656
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL ***" tvg-logo="http://i.imgur.com/ZekUX7A.png" group-title="FILMES",COMEDY CENTRAL ***
 http://165.227.100.253/comedycentral/tracks-v1a1/index.m3u8?pxAuth=RKJdMXdWTsLv3RRelMtX606bIxKpV7Nc
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD **" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALTH HD **
