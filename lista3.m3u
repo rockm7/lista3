@@ -1,16 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BBB26 - CAM01" tvg-logo="https://i.imgur.com/wrCmhnt.png" group-title="CANAIS | BBB 26",BBB26 - CAM01
-http://conecdg.me:80/77160276/56433263/3915923
-#EXTINF:-1 tvg-id="" tvg-name="BBB26 - CAM02" tvg-logo="https://i.imgur.com/wrCmhnt.png" group-title="CANAIS | BBB 26",BBB26 - CAM02
-http://conecdg.me:80/77160276/56433263/3915924
-#EXTINF:-1 tvg-id="" tvg-name="BBB26 - CAM03" tvg-logo="https://i.imgur.com/wrCmhnt.png" group-title="CANAIS | BBB 26",BBB26 - CAM03
-http://conecdg.me:80/77160276/56433263/3915925
-#EXTINF:-1 tvg-id="" tvg-name="BBB26 - CAM04" tvg-logo="https://i.imgur.com/wrCmhnt.png" group-title="CANAIS | BBB 26",BBB26 - CAM04
-http://conecdg.me:80/77160276/56433263/3915926
-#EXTINF:-1 tvg-id="" tvg-name="BBB26 - CAM05" tvg-logo="https://i.imgur.com/wrCmhnt.png" group-title="CANAIS | BBB 26",BBB26 - CAM05
-http://conecdg.me:80/77160276/56433263/3915927
-#EXTINF:-1 tvg-id="" tvg-name="BBB26 - CAM06" tvg-logo="https://i.imgur.com/wrCmhnt.png" group-title="CANAIS | BBB 26",BBB26 - CAM06
-http://conecdg.me:80/77160276/56433263/3915928
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="http://img.elitehdbr.com/logos/globo.png" group-title="CANAIS ABERTOS",GLOBO RJ HD
+http://128.199.34.33/loadbalance/bobonordeste/chunks.m3u8?pxAuth=VaOoaJFM1EZJGDZnCiFRA4OGxzz1wOHs
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD E*" tvg-logo="http://img.elitehdbr.com/logos/globo.png" group-title="CANAIS ABERTOS",GLOBO RJ HD E*
+http://159.203.60.223/loadbalance/bobosp/chunks.m3u8?pxAuth=YHgxHTeBKw0FBuLHOkWe3xvHTOdMkw7F
 #EXTINF:-1 tvg-id="" tvg-name="24H 44 Gatos" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/924/sLDGHP.png" group-title="CANAIS | DESENHOS 24H",24H 44 Gatos
 http://conecdg.me:80/77160276/56433263/3920433
 #EXTINF:-1 tvg-id="" tvg-name="24H A Casa Magica da Gabby" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/QSAGhR.png" group-title="CANAIS | DESENHOS 24H",24H A Casa Magica da Gabby
