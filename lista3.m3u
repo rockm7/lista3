@@ -1,65 +1,45 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSkRf5lod4hww9m3p5drMWg7LwQR5H-T8wRrHxVLvbSYcWMEgrt" group-title="BBB 2020", BBB CONFESSIONARIO 1
-http://fonteangelusiptv.com:25461/michele/michele/92508
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSkRf5lod4hww9m3p5drMWg7LwQR5H-T8wRrHxVLvbSYcWMEgrt" group-title="BBB 2020", BBB CONFESSIONARIO 2
-http://origin.canaismax.com:443/live/bbb02hd/video.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSkRf5lod4hww9m3p5drMWg7LwQR5H-T8wRrHxVLvbSYcWMEgrt" group-title="BBB 2020", BBB CAM QUARTO CEU 
-http://origin.canaismax.com:443/live/bbb03hd/video.m3u8
-#EXTINF:-1,BBB 18 HD +
-http://iptv.masterr.cf:25461/live/Luizaugusto/dh1GFnT8wY/3094.ts&name=MEGASERVER
-#EXTINF:-1,BBB 18 SD (1) +
-http://iptv.masterr.cf:25461/live/Luizaugusto/dh1GFnT8wY/4468.ts&name=MEGASERVER
-#EXTINF:-1,BBB 18 SD (2) +
-http://iptv.masterr.cf:25461/live/Luizaugusto/dh1GFnT8wY/4469.ts&name=MEGASERVER
-#EXTINF:-1,BBB 18 SD +
-http://iptv.masterr.cf:25461/live/Luizaugusto/dh1GFnT8wY/3095.ts&name=MEGASERVER
-#EXTINF:0 tvg-id="ext" group-title="BBB 2018",BBB 18 HD
-http://sv1.cineiptv.com:25461/live/IPTV/6Z13V328BA/3828.ts
-#EXTINF:0 tvg-id="ext" group-title="BBB 2018",BBB 18 SD
-http://sv1.cineiptv.com:25461/live/IPTV/6Z13V328BA/4168.ts
-#EXTINF:0 tvg-id="ext" group-title="BBB 2018",BBB 2 SD
-http://sv1.cineiptv.com:25461/live/IPTV/6Z13V328BA/4170.ts
-#EXTINF:0 tvg-id="ext" group-title="BBB 2018",BBB 3 SD
-http://sv1.cineiptv.com:25461/live/IPTV/6Z13V328BA/4169.ts
-#EXTINF:0 tvg-id="ext" group-title="BBB 2018",BBB 4 SD
-http://sv1.cineiptv.com:25461/live/IPTV/6Z13V328BA/4165.ts
-#EXTINF:0 tvg-id="ext" group-title="BBB 2018",BBB 5 SD
-http://sv1.cineiptv.com:25461/live/IPTV/6Z13V328BA/4164.ts
-#EXTINF:0 tvg-id="ext" group-title="BBB 2018",BBB 6 SD
-http://sv1.cineiptv.com:25461/live/IPTV/6Z13V328BA/4163.ts
-#EXTINF:0 tvg-id="ext" group-title="BBB 2018",BBB 7 SD
-http://sv1.cineiptv.com:25461/live/IPTV/6Z13V328BA/4162.ts
-#EXTINF:0 tvg-id="ext" group-title="BBB 2018",BBB 8 SD
-http://sv1.cineiptv.com:25461/live/IPTV/6Z13V328BA/4161.ts
-#EXTINF:0 tvg-id="ext" group-title="BBB 2018",BBB 9 SD
-http://sv1.cineiptv.com:25461/live/IPTV/6Z13V328BA/4160.ts
-#EXTINF:0 tvg-id="ext" group-title="BBB 2018",BBB 10 SD
-http://sv1.cineiptv.com:25461/live/IPTV/6Z13V328BA/4167.ts
-#EXTINF:0 tvg-id="Espnbrasil.br" group-title="ESPORTES",ESPN BRASIL FHD H265
-http://sv1.cineiptv.com:25461/live/IPTV/6Z13V328BA/655.ts
-#EXTINF:0 tvg-id="Espnbrasil.br" group-title="ESPORTES",ESPN BRASIL HD
-http://sv1.cineiptv.com:25461/live/IPTV/6Z13V328BA/832.ts
-#EXTINF:0 tvg-id="Espnbrasil.br" group-title="ESPORTES",ESPN BRASIL HD*
-http://sv1.cineiptv.com:25461/live/IPTV/6Z13V328BA/1983.ts
-#EXTINF:0 tvg-id="Espnbrasil.br" group-title="ESPORTES",ESPN BRASIL SD
-http://sv1.cineiptv.com:25461/live/IPTV/6Z13V328BA/831.ts
-#EXTINF:0 tvg-id="ESPNInternational.br" group-title="ESPORTES",ESPN HD
-http://sv1.cineiptv.com:25461/live/IPTV/6Z13V328BA/830.ts
-#EXTINF:0 tvg-id="ESPNInternational.br" group-title="ESPORTES",ESPN HD*
-http://sv1.cineiptv.com:25461/live/IPTV/6Z13V328BA/656.ts
-#EXTINF:0 tvg-id="ESPNInternational.br" group-title="ESPORTES",ESPN SD
-http://sv1.cineiptv.com:25461/live/IPTV/6Z13V328BA/829.ts
-#EXTINF:0 tvg-id="ESPN+.br" group-title="ESPORTES",ESPN+ FHD H265
-http://sv1.cineiptv.com:25461/live/IPTV/6Z13V328BA/654.ts
-#EXTINF:0 tvg-id="ESPN+.br" group-title="ESPORTES",ESPN+ HD
-http://sv1.cineiptv.com:25461/live/IPTV/6Z13V328BA/1980.ts
-#EXTINF:0 tvg-id="ESPN+.br" group-title="ESPORTES",ESPN+ HD*
-http://sv1.cineiptv.com:25461/live/IPTV/6Z13V328BA/1981.ts
-#EXTINF:0 tvg-id="ESPN+.br" group-title="ESPORTES",ESPN+ SD
-http://sv1.cineiptv.com:25461/live/IPTV/6Z13V328BA/2680.ts
-#EXTINF:0 tvg-id="Espnextra.br" group-title="ESPORTES",ESPN EXTRA HD
-http://sv1.cineiptv.com:25461/live/IPTV/6Z13V328BA/2791.ts
-#EXTINF:0 tvg-id="Espnextra.br" group-title="ESPORTES",ESPN EXTRA HD*
-http://sv1.cineiptv.com:25461/live/IPTV/6Z13V328BA/4807.ts
-#EXTINF:0 tvg-id="Espnextra.br" group-title="ESPORTES",ESPN EXTRA SD
-http://sv1.cineiptv.com:25461/live/IPTV/6Z13V328BA/2792.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 21 CAM 3 HD" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2021",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 21 CAM 3 HD
+http://lista.lorddark.club:80/5247/5247/201345
+#EXTINF:-1 tvg-id="" tvg-name="BBB 21 CAM 4 HD" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 21 CAM 4 HD
+http://lista.lorddark.club:80/5247/5247/203811
+#EXTINF:-1 tvg-id="" tvg-name="BBB 21 CAM 5 HD" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 21 CAM 5 HD
+http://lista.lorddark.club:80/5247/5247/203812
+#EXTINF:-1 tvg-id="" tvg-name="BBB 21 CAM PRINCIPAL 1 HD" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 21 CAM PRINCIPAL 1 HD
+http://lista.lorddark.club:80/5247/5247/201343
+#EXTINF:-1 tvg-id="" tvg-name="BBB 21 CAM PRINCIPAL 2 HD" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 21 CAM PRINCIPAL 2 HD
+http://lista.lorddark.club:80/5247/5247/201344
+#EXTINF:-1 tvg-id="" tvg-name="BBB 21 CAM MOSAICO 1 HD" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 21 CAM MOSAICO 1 HD
+http://lista.lorddark.club:80/5247/5247/201342
+#EXTINF:-1 tvg-id="" tvg-name="BBB 21 CAM MOSAICO 2 HD" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 21 CAM MOSAICO 2 HD
+http://lista.lorddark.club:80/5247/5247/201341
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 3 HD ³" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 3 HD ³
+http://quatv2.com:9000/eduardo10/eduardo10/70418
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 3 SD ³" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 3 SD ³
+http://quatv2.com:9000/eduardo10/eduardo10/70419
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 4 HD ³" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 4 HD ³
+http://quatv2.com:9000/eduardo10/eduardo10/70420
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 4 SD ³" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 4 SD ³
+http://quatv2.com:9000/eduardo10/eduardo10/70421
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 5 HD ³" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 5 HD ³
+http://quatv2.com:9000/eduardo10/eduardo10/70422
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 5 SD ³" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 5 SD ³
+http://quatv2.com:9000/eduardo10/eduardo10/70423
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 6 HD ³" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 6 HD ³
+http://quatv2.com:9000/eduardo10/eduardo10/70424
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 6 SD ³" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 6 SD ³
+http://quatv2.com:9000/eduardo10/eduardo10/70425
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 7 HD ³" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 7 HD ³
+http://quatv2.com:9000/eduardo10/eduardo10/70426
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 7 SD ³" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 7 SD ³
+http://quatv2.com:9000/eduardo10/eduardo10/70427
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 10 SD ³" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 10 SD ³
+http://quatv2.com:9000/eduardo10/eduardo10/70428
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 10 HD ³" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 10 HD ³
+http://quatv2.com:9000/eduardo10/eduardo10/70429
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 9 SD ³" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 9 SD ³
+http://quatv2.com:9000/eduardo10/eduardo10/70430
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 9 HD ³" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 9 HD ³
+http://quatv2.com:9000/eduardo10/eduardo10/70431
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 8 SD ³" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 8 SD ³
+http://quatv2.com:9000/eduardo10/eduardo10/70432
