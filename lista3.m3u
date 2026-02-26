@@ -1,8 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="bandsãopaulo.br" tvg-name="GLOBO SÃO PAULO FHD" tvg-logo="https://7svoficial.com/canais/globo.png" group-title="CANAIS • GLOBO CAPITAIS",GLOBO SÃO PAULO FHD
-http://axshield.xyz:80/765533561/344364231/11409657
-#EXTINF:-1 tvg-id="bandsãopaulo.br" tvg-name="GLOBO SÃO PAULO HD" tvg-logo="https://7svoficial.com/canais/globo.png" group-title="CANAIS • GLOBO CAPITAIS",GLOBO SÃO PAULO HD
-http://axshield.xyz:80/765533561/344364231/11409656
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/rTXcueh.png",ESPN Brasil
+http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_360_av-b.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/rTXcueh.png",ESPN Brasil HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/kcxzdPA.png",ESPN
+http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_360_av-b.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/kcxzdPA.png",ESPN HD
+http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/Qp5B2ZB.png",ESPN 2
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_360_av-b.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/Qp5B2ZB.png",ESPN 2 HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/TW6ZY5p.png",ESPN Extra
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-b.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/TW6ZY5p.png",ESPN Extra HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL ***" tvg-logo="http://i.imgur.com/ZekUX7A.png" group-title="FILMES",COMEDY CENTRAL ***
 http://165.227.100.253/comedycentral/tracks-v1a1/index.m3u8?pxAuth=RKJdMXdWTsLv3RRelMtX606bIxKpV7Nc
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD **" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALTH HD **
