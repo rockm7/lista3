@@ -1,25 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2 FHD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/espn2.png" group-title="Canais: Esportes",ESPN 2 FHD
-http://stream-sky.cf:80/joao123/joao123/358
-#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2 HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/espn2.png" group-title="Canais: Esportes",ESPN 2 HD
-http://stream-sky.cf:80/joao123/joao123/91
-#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2 SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/espn2.png" group-title="Canais: Esportes",ESPN 2 SD
-http://stream-sky.cf:80/joao123/joao123/90
-#EXTINF:-1,Globo RBS P. Alegre FHD₁
-http://lista.titanuhd.top:80/Paula123/Paula123/694
-#EXTINF:-1,Globo RBS P. Alegre HD₁
-http://lista.titanuhd.top:80/Paula123/Paula123/509
-#EXTINF:-1,Globo RBS P. Alegre SD₁
-http://lista.titanuhd.top:80/Paula123/Paula123/460
-#EXTINF:-1,GLOBO RBS PORTO ALEGRE SD₂
-http://lista.titanuhd.top:80/Paula123/Paula123/22134
-#EXTINF:-1,Premiere 1 Clubes FHD₁
-http://lista.titanuhd.top:80/Paula123/Paula123/725
-#EXTINF:-1,Premiere 1 Clubes FHD₂
-http://lista.titanuhd.top:80/Paula123/Paula123/22364
-#EXTINF:-1,Premiere 1 Clubes HD₁
-http://lista.titanuhd.top:80/Paula123/Paula123/134
-#EXTINF:-1,Premiere 1 Clubes HD₂
+#EXTINF:-1 group-title="Entretenimento",Entretenimento geral
+https://iptv-org.github.io/iptv/categories/entertainment.m3u
 http://lista.titanuhd.top:80/Paula123/Paula123/22202
 #EXTINF:-1,Premiere 1 Clubes SD₁
 http://lista.titanuhd.top:80/Paula123/Paula123/135
