@@ -1,2 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SPORTV 3" tvg-logo="http://i.imgur.com/8ds9Wv0.png" grouptitle="Esportes",SporTV 3 http://edge1.srvsgo.gq:8080/live/sportv3/playlist.m3u8?
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="http://img.elitehdbr.com/logos/globo.png" group-title="CANAIS ABERTOS",GLOBO RJ HD
+http://128.199.34.33/loadbalance/bobonordeste/chunks.m3u8?pxAuth=VaOoaJFM1EZJGDZnCiFRA4OGxzz1wOHs
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD E*" tvg-logo="http://img.elitehdbr.com/logos/globo.png" group-title="CANAIS ABERTOS",GLOBO RJ HD E*
+http://159.203.60.223/loadbalance/bobosp/chunks.m3u8?pxAuth=YHgxHTeBKw0FBuLHOkWe3xvHTOdMkw7F
